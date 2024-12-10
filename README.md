@@ -3,7 +3,7 @@ gradio chat service
 
 # Useage
 ```shell
-python ollama_chat_gradio.py
+python gradio_chat.py
 ```
 
 # Authenticate
